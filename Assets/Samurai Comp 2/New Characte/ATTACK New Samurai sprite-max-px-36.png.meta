@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: f044b167637a4493dad608dec60e31ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3278
+        width: 441
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72581abb0d0dd434b902db6522877c5f
+      internalID: -228026106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3278
+        width: 439
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f40c9735e31448785bbc8846804640
+      internalID: 1794232695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 3278
+        width: 443
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022aa7f4f958346faa9e150af3d8c8fa
+      internalID: 1591714298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3278
+        width: 443
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12564999a0a4a8d9fc61831f90022d
+      internalID: -1686395385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 3248
+        width: 360
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1447703d8e541daafe5e9698003856
+      internalID: -234352328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 3257
+        width: 456
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe476eb069194bbaab765fa0b3306fc
+      internalID: -156905807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3190
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99779ff0b16a4b929623cc40412cfa0
+      internalID: -137645466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 3199
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a598f099d664f9686ec46dada57874
+      internalID: 165529818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 468
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e3fda66b9ab46688e0d7a285b57c58
+      internalID: -1288709331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2640
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b21263f89f4942bccb1fee3f2e45a
+      internalID: 1836582185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2640
+        width: 398
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464431988f3b44d58db2830270d73ff
+      internalID: -943944303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2640
+        width: 480
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4a37e39b5f4735a8fbf1c2fd7253f
+      internalID: 1870574422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2640
+        width: 464
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1733432c9c8944478b8a3f0a7bbe8ac
+      internalID: -1806241388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2640
+        width: 496
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ba2521d91f746bea3da6f19c2f7afd
+      internalID: 1606350375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2003
+        width: 642
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f455d37076541179931147625e54f8
+      internalID: -1490620782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2003
+        width: 496
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b04538aef2cd4acf95cd2bb1356bedd
+      internalID: 211879529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2003
+        width: 503
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d21cf8356a4723b8c89a2989927a2
+      internalID: 572521640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2003
+        width: 504
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09db2d08084b4d2aa195e29d560cb24
+      internalID: -1060373035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 2003
+        width: 501
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe654f3e97224bc6ad235b86011a1fb
+      internalID: 1959397326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 2003
+        width: 494
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9535cde099c4168a9a77e0c7b2c4f5
+      internalID: 871944577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1364
+        width: 500
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad71b23ded9942cc9ac6d01f178f079
+      internalID: -515474299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1364
+        width: 466
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08beaf202cb40c8bb98a366c1e80d8
+      internalID: 415177102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1364
+        width: 437
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c906f1e2dd466699854a6e45011dc
+      internalID: -2032821643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1364
+        width: 415
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b75b2e277e4fd09669577a7d2dc8b
+      internalID: 171498547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1364
+        width: 392
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0163e8672914b4599a802d46ed09f2df
+      internalID: 438512905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 1364
+        width: 386
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c076ae5eda08a4922b064e9f206b1d9f
+      internalID: -464353151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 726
+        width: 381
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687035e5995d4f6ca02c0ca0db69dc6
+      internalID: 515609567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 726
+        width: 374
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff14e2ff6d24ad788d54bd2c0aba69
+      internalID: 536226054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 726
+        width: 375
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49bf997a57614657bf138e0d3f6cd2e
+      internalID: 712134867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 726
+        width: 375
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb3f4f7933b4ab98b218f6bace55d1
+      internalID: -1031463730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 726
+        width: 373
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0177cc770424f90a43b3e7d982306a
+      internalID: 707253774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 726
+        width: 372
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db157f5e67447e49de6418ac028ea8
+      internalID: -1752487791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 371
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609f8a64655f4b79abebdc6f4b1a5b4
+      internalID: -382061201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 89
+        width: 369
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5f4710a2794853a36530071e4e6e3
+      internalID: 1277875941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 89
+        width: 366
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef755e550e68415790e547dbfaf28a5
+      internalID: -483350109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 89
+        width: 366
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14010d26770b94abeb1522cccd166c7c
+      internalID: 30678144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_36
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 89
+        width: 364
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f743552c3b94539b98354308376a39
+      internalID: -1168247091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK New Samurai sprite-max-px-36_37
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 89
+        width: 362
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e256f5cdf384cd7b3e54d7dd25866c
+      internalID: 493990940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ATTACK New Samurai sprite-max-px-36_0: -228026106
+      ATTACK New Samurai sprite-max-px-36_1: 1794232695
+      ATTACK New Samurai sprite-max-px-36_10: -943944303
+      ATTACK New Samurai sprite-max-px-36_11: 1870574422
+      ATTACK New Samurai sprite-max-px-36_12: -1806241388
+      ATTACK New Samurai sprite-max-px-36_13: 1606350375
+      ATTACK New Samurai sprite-max-px-36_14: -1490620782
+      ATTACK New Samurai sprite-max-px-36_15: 211879529
+      ATTACK New Samurai sprite-max-px-36_16: 572521640
+      ATTACK New Samurai sprite-max-px-36_17: -1060373035
+      ATTACK New Samurai sprite-max-px-36_18: 1959397326
+      ATTACK New Samurai sprite-max-px-36_19: 871944577
+      ATTACK New Samurai sprite-max-px-36_2: 1591714298
+      ATTACK New Samurai sprite-max-px-36_20: -515474299
+      ATTACK New Samurai sprite-max-px-36_21: 415177102
+      ATTACK New Samurai sprite-max-px-36_22: -2032821643
+      ATTACK New Samurai sprite-max-px-36_23: 171498547
+      ATTACK New Samurai sprite-max-px-36_24: 438512905
+      ATTACK New Samurai sprite-max-px-36_25: -464353151
+      ATTACK New Samurai sprite-max-px-36_26: 515609567
+      ATTACK New Samurai sprite-max-px-36_27: 536226054
+      ATTACK New Samurai sprite-max-px-36_28: 712134867
+      ATTACK New Samurai sprite-max-px-36_29: -1031463730
+      ATTACK New Samurai sprite-max-px-36_3: -1686395385
+      ATTACK New Samurai sprite-max-px-36_30: 707253774
+      ATTACK New Samurai sprite-max-px-36_31: -1752487791
+      ATTACK New Samurai sprite-max-px-36_32: -382061201
+      ATTACK New Samurai sprite-max-px-36_33: 1277875941
+      ATTACK New Samurai sprite-max-px-36_34: -483350109
+      ATTACK New Samurai sprite-max-px-36_35: 30678144
+      ATTACK New Samurai sprite-max-px-36_36: -1168247091
+      ATTACK New Samurai sprite-max-px-36_37: 493990940
+      ATTACK New Samurai sprite-max-px-36_4: -234352328
+      ATTACK New Samurai sprite-max-px-36_5: -156905807
+      ATTACK New Samurai sprite-max-px-36_6: -137645466
+      ATTACK New Samurai sprite-max-px-36_7: 165529818
+      ATTACK New Samurai sprite-max-px-36_8: -1288709331
+      ATTACK New Samurai sprite-max-px-36_9: 1836582185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 027a87a9574e148e981e5ea01381bf07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2515
+        width: 491
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683a41d851594f419194db380c3c0e5
+      internalID: -256111473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2515
+        width: 490
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6821f3ff7095457b98bb42a701591d6
+      internalID: -1494552309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2515
+        width: 490
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1397e476523403dbeabcaf4ac1a57b
+      internalID: -1931894143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2515
+        width: 490
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d4c0c316584ace96e5db19ae3b935
+      internalID: 485560128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2515
+        width: 490
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1356e80d654f487ba336d1d94bead56
+      internalID: 16570023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2515
+        width: 492
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee6bd5fcae34cf4a18fa0b7f553be3
+      internalID: -152919200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2012
+        width: 493
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c37b0d50ea04ffcb478682af9c96fa
+      internalID: -703566724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2012
+        width: 498
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ab4b4912c9496babc4f54ce3b29dd
+      internalID: 1909823595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2012
+        width: 502
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9b2c3b31b641408cd97efbdc258be
+      internalID: 211496510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2012
+        width: 508
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f2d25420414edd81c68c12927355a
+      internalID: -1295701266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 2012
+        width: 515
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7e81499a064a86ac398b1ac272b25
+      internalID: 2093505996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2012
+        width: 516
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f4cdf273bc46319726a518fce1020
+      internalID: -583199426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1511
+        width: 517
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae217454cab3a4239a7de3a55abd9e39
+      internalID: -201870090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1511
+        width: 516
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b208a69c9f74643a5bb85622745c99
+      internalID: -226603023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1511
+        width: 511
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b459c7fc0a594e16b1af46b803b3b37
+      internalID: 105986990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1511
+        width: 508
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f481a2fede499f947b6ea6d8ec382
+      internalID: -1626301019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1511
+        width: 505
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0989b3f5c1efb4536a96b897b20b55be
+      internalID: -469060583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1511
+        width: 498
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e4407ab09a4854b29dba6e912275b
+      internalID: -533736153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1008
+        width: 496
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ecb9da5d674d6eac5f5895c733db3
+      internalID: 1759123945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1008
+        width: 493
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9efd81aadf243e5a37257976518890
+      internalID: -1297631027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1008
+        width: 492
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83e40654ad845f7b5aaef9ccc791e5
+      internalID: -2039720960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1008
+        width: 493
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81767572cb3414f46894c5e9a251a701
+      internalID: -1026012512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1008
+        width: 493
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7859a9282250458887e35ca52f1fed6
+      internalID: -1277239582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1008
+        width: 495
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbaf14dba624b50bdcf7c164ac893e
+      internalID: 1578686054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 507
+        width: 496
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ba0bdc78114db1afd2582df0f4df6
+      internalID: -971099297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 507
+        width: 496
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382946b02666d4bb7a0ba824930d8983
+      internalID: 1460714327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 507
+        width: 498
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1879e01310040d7ae0d7e562cbe9d5
+      internalID: 1039771617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 507
+        width: 498
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4cc68f5271499b8a7f281204f1a2b
+      internalID: 1471713716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 507
+        width: 498
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180859962950648a2910de8f1063061a
+      internalID: -790040180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 507
+        width: 499
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f8765e94014ec7b089419dbd85389
+      internalID: -1910999918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 498
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d8dbdd0ca44af0b1f76c73992d676
+      internalID: 1924131150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 4
+        width: 496
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2ced7b09fa74e01ac25c82bfcbdd99
+      internalID: 498556434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 4
+        width: 494
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b76dd195084324bf7889f5c40b116
+      internalID: 640818724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4
+        width: 493
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb325c47bbaa4642a4450d9e026bd9d
+      internalID: -959478513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 4
+        width: 492
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777d5beb83284851bd19caf44033f25
+      internalID: -1931173917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE New Samurai sprite-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 4
+        width: 491
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2ae97d53504a279d61009260ae87a
+      internalID: -642967294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IDLE New Samurai sprite-max-px-36_0: -256111473
+      IDLE New Samurai sprite-max-px-36_1: -1494552309
+      IDLE New Samurai sprite-max-px-36_10: 2093505996
+      IDLE New Samurai sprite-max-px-36_11: -583199426
+      IDLE New Samurai sprite-max-px-36_12: -201870090
+      IDLE New Samurai sprite-max-px-36_13: -226603023
+      IDLE New Samurai sprite-max-px-36_14: 105986990
+      IDLE New Samurai sprite-max-px-36_15: -1626301019
+      IDLE New Samurai sprite-max-px-36_16: -469060583
+      IDLE New Samurai sprite-max-px-36_17: -533736153
+      IDLE New Samurai sprite-max-px-36_18: 1759123945
+      IDLE New Samurai sprite-max-px-36_19: -1297631027
+      IDLE New Samurai sprite-max-px-36_2: -1931894143
+      IDLE New Samurai sprite-max-px-36_20: -2039720960
+      IDLE New Samurai sprite-max-px-36_21: -1026012512
+      IDLE New Samurai sprite-max-px-36_22: -1277239582
+      IDLE New Samurai sprite-max-px-36_23: 1578686054
+      IDLE New Samurai sprite-max-px-36_24: -971099297
+      IDLE New Samurai sprite-max-px-36_25: 1460714327
+      IDLE New Samurai sprite-max-px-36_26: 1039771617
+      IDLE New Samurai sprite-max-px-36_27: 1471713716
+      IDLE New Samurai sprite-max-px-36_28: -790040180
+      IDLE New Samurai sprite-max-px-36_29: -1910999918
+      IDLE New Samurai sprite-max-px-36_3: 485560128
+      IDLE New Samurai sprite-max-px-36_30: 1924131150
+      IDLE New Samurai sprite-max-px-36_31: 498556434
+      IDLE New Samurai sprite-max-px-36_32: 640818724
+      IDLE New Samurai sprite-max-px-36_33: -959478513
+      IDLE New Samurai sprite-max-px-36_34: -1931173917
+      IDLE New Samurai sprite-max-px-36_35: -642967294
+      IDLE New Samurai sprite-max-px-36_4: 16570023
+      IDLE New Samurai sprite-max-px-36_5: -152919200
+      IDLE New Samurai sprite-max-px-36_6: -703566724
+      IDLE New Samurai sprite-max-px-36_7: 1909823595
+      IDLE New Samurai sprite-max-px-36_8: 211496510
+      IDLE New Samurai sprite-max-px-36_9: -1295701266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 83b2c991f66d14c148e07b79227f8e6e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2591
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce547c34e3734e50bbcc11238015706
+      internalID: 288639632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2596
+        width: 436
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f085eb55984d4c920a1ed135d19dd
+      internalID: -1120727173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2597
+        width: 406
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19809aaf28642349585de833b92f15
+      internalID: -274636538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2597
+        width: 392
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5036e0bc4844f23bb9473767d0ae42
+      internalID: -821733257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2592
+        width: 422
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb10420d4ef844a982634f5cff5c6d3
+      internalID: 406871321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2589
+        width: 468
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb31efbe5c084fb1bf8d4e5091deb21
+      internalID: 1100601800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2073
+        width: 455
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd1af6ab9784d7bac9eab548efbc07
+      internalID: 1978113561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2075
+        width: 418
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d047296f4c5749438f197e138394ece
+      internalID: 1813179714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2080
+        width: 385
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bff3b98bf0f4c12abac3f00a23f7e0
+      internalID: 583706760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 2081
+        width: 368
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db19c6eb0120405299bb9abcec22257
+      internalID: -213137370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 2080
+        width: 354
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b0cf1b4c704ed1a51aeeb464d2e6d
+      internalID: -1677842820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2073
+        width: 356
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb6be3b44e94f15a67db94082d85f1
+      internalID: -187585097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1550
+        width: 383
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d18d6d63acd4014b03886212bfab76
+      internalID: 2134539747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1552
+        width: 429
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c5aea8dd2345cd9affb1039e348cf
+      internalID: -400587942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1554
+        width: 462
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad0582bcd69740b08ee937e1fa0b8af
+      internalID: -410738131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1554
+        width: 484
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d09427686a84a30a8049cd0eca68dd
+      internalID: -1919467781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1555
+        width: 498
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd213a9693494422cb37f73fcbbff805
+      internalID: -1674270091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1565
+        width: 489
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a520696bcb74118b126732f0d2fcce
+      internalID: -40940216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1055
+        width: 467
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77fdda767f344ff94a80ef8d14e06c
+      internalID: -129280332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1058
+        width: 443
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76c23a92006477098fbca01a0e2ca0
+      internalID: 753091069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1054
+        width: 417
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342eb55fcd70d49a1bb3621417df7b6e
+      internalID: 663892999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1053
+        width: 424
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d325bfaf63bc4183b69e736e8dfdad2
+      internalID: -2137318346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1048
+        width: 459
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9247ba439c4e76abb41d5682850ed
+      internalID: -1671481672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1044
+        width: 471
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2e6312b58148249fe5cc75eb86d0f
+      internalID: 209498443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 528
+        width: 446
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c31382c2a34b24903d8ec2933f3e0
+      internalID: 1459899500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 533
+        width: 414
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522c08d1da5a43b586c8f80cbed5696
+      internalID: 297198767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 538
+        width: 384
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a61b3c81d234bf4b885f0c530d029c
+      internalID: 726039873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 540
+        width: 372
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb98ab26bc89455a882b14d1cc26038
+      internalID: -625629586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 537
+        width: 362
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79404462ac1a4b2fa104cf54a1c1faa
+      internalID: 47522094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 532
+        width: 363
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490c7b767f1d4744914bc3d2fe55808
+      internalID: -1823414332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 415
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75659ad64f995421eb1c0d8c38bd36f1
+      internalID: -732172342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 452
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac7c71eb0474ab893def3aa71adf48
+      internalID: 1965497976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 11
+        width: 471
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617785890421742d6bec237e9faca2a9
+      internalID: 691529033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 13
+        width: 488
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e8eb4185da04358a6983972223ccb8
+      internalID: 1521384058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 17
+        width: 498
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd483c480a04a81a4bd5c86892a581
+      internalID: -1494735768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUN New Samurai sprite-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 29
+        width: 464
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c38f809d72b4151b6c6a4ae86bcfb8
+      internalID: -1682199518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RUN New Samurai sprite-max-px-36_0: 288639632
+      RUN New Samurai sprite-max-px-36_1: -1120727173
+      RUN New Samurai sprite-max-px-36_10: -1677842820
+      RUN New Samurai sprite-max-px-36_11: -187585097
+      RUN New Samurai sprite-max-px-36_12: 2134539747
+      RUN New Samurai sprite-max-px-36_13: -400587942
+      RUN New Samurai sprite-max-px-36_14: -410738131
+      RUN New Samurai sprite-max-px-36_15: -1919467781
+      RUN New Samurai sprite-max-px-36_16: -1674270091
+      RUN New Samurai sprite-max-px-36_17: -40940216
+      RUN New Samurai sprite-max-px-36_18: -129280332
+      RUN New Samurai sprite-max-px-36_19: 753091069
+      RUN New Samurai sprite-max-px-36_2: -274636538
+      RUN New Samurai sprite-max-px-36_20: 663892999
+      RUN New Samurai sprite-max-px-36_21: -2137318346
+      RUN New Samurai sprite-max-px-36_22: -1671481672
+      RUN New Samurai sprite-max-px-36_23: 209498443
+      RUN New Samurai sprite-max-px-36_24: 1459899500
+      RUN New Samurai sprite-max-px-36_25: 297198767
+      RUN New Samurai sprite-max-px-36_26: 726039873
+      RUN New Samurai sprite-max-px-36_27: -625629586
+      RUN New Samurai sprite-max-px-36_28: 47522094
+      RUN New Samurai sprite-max-px-36_29: -1823414332
+      RUN New Samurai sprite-max-px-36_3: -821733257
+      RUN New Samurai sprite-max-px-36_30: -732172342
+      RUN New Samurai sprite-max-px-36_31: 1965497976
+      RUN New Samurai sprite-max-px-36_32: 691529033
+      RUN New Samurai sprite-max-px-36_33: 1521384058
+      RUN New Samurai sprite-max-px-36_34: -1494735768
+      RUN New Samurai sprite-max-px-36_35: -1682199518
+      RUN New Samurai sprite-max-px-36_4: 406871321
+      RUN New Samurai sprite-max-px-36_5: 1100601800
+      RUN New Samurai sprite-max-px-36_6: 1978113561
+      RUN New Samurai sprite-max-px-36_7: 1813179714
+      RUN New Samurai sprite-max-px-36_8: 583706760
+      RUN New Samurai sprite-max-px-36_9: -213137370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
